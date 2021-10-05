@@ -3,7 +3,7 @@ function strictEquals(a, b) {
 }
 
 describe("Function strictEquals", () => {
-  test("when you get 1 and 1, it should return true", () => {
+  test("when you get 1 and 1, it swhould return true", () => {
     //Arrange
     const firstValue = 1;
     const secondValue = 1;
